@@ -5,7 +5,6 @@ Copyright: (C) 2020 Masayuki Onishi
 
 # rsync --delete をシェルスクリプトに仕込んでサーバ壊滅
 
-
 ## 事象
 
 bashCMS2 中の ./deploy コマンド実行で、サーバを吹っ飛ばした。
