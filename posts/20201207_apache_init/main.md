@@ -5,7 +5,6 @@ Copyright: (C) 2020 Masayuki Onishi
 
 # Web サーバ初期設定 ( Ubuntu × Apache )
 
-
 ## インストール
 
 ```bash
