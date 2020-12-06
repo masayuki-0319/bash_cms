@@ -88,10 +88,10 @@ Host ${ssh コマンドで使用する任意のサーバ名}
 ```
 
 - 参考URL
-  - [ssh\-keygenでファイル名を指定して鍵を生成する \- Qiita](https://qiita.com/goldbook@github/items/575981f3ec0bc582ea24)
-	- [SSH で複数の秘密鍵を使い分けるいくつかの方法 \- Ellinikonblue\.com Weblog](http://www.ellinikonblue.com/blosxom/UNIX/20150721SSH.html)
-	- [インフラエンジニアじゃなくても押さえておきたいSSHの基礎知識 \- Qiita](https://qiita.com/tag1216/items/5d06bad7468f731f590e)
-  - [~/\.ssh/configについて \- Qiita](https://qiita.com/passol78/items/2ad123e39efeb1a5286b)
+    - [ssh\-keygenでファイル名を指定して鍵を生成する \- Qiita](https://qiita.com/goldbook@github/items/575981f3ec0bc582ea24)
+    - [SSH で複数の秘密鍵を使い分けるいくつかの方法 \- Ellinikonblue\.com Weblog](http://www.ellinikonblue.com/blosxom/UNIX/20150721SSH.html)
+    - [インフラエンジニアじゃなくても押さえておきたいSSHの基礎知識 \- Qiita](https://qiita.com/tag1216/items/5d06bad7468f731f590e)
+    - [~/\.ssh/configについて \- Qiita](https://qiita.com/passol78/items/2ad123e39efeb1a5286b)
 
 
 ### パスワードログインを無効化
@@ -117,5 +117,5 @@ $ sudo service ssh restart
 nuro 光の場合は、ビジネス契約が必要になるから、設定不可だった。
 
 - 参考 URL
-  - [さくらのVPS パケットフィルタで「許可する送信元IPアドレス」設定追加のお知らせ – さくらのVPSニュース](https://vps.sakura.ad.jp/news/vps-pf-ph3/)
-  - [NURO 光で固定IPアドレスを使う方法を解説！変動型との違いは？ \| NURO 光](https://www.nuro.jp/article/koteigata-ip/)
+    - [さくらのVPS パケットフィルタで「許可する送信元IPアドレス」設定追加のお知らせ – さくらのVPSニュース](https://vps.sakura.ad.jp/news/vps-pf-ph3/)
+    - [NURO 光で固定IPアドレスを使う方法を解説！変動型との違いは？ \| NURO 光](https://www.nuro.jp/article/koteigata-ip/)
