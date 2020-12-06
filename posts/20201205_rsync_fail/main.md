@@ -1,5 +1,5 @@
 ---
-Keywords:rsync, 失敗談, メモ
+Keywords: rsync, 失敗談, メモ
 Copyright: (C) 2020 Masayuki Onishi
 ---
 
@@ -23,4 +23,4 @@ bashCMS2 中の ./deploy コマンド実行で、サーバを吹っ飛ばした�
 rsync --delete 使用時は、引数に特に気をつけるべき教訓。
 
 - 参考 URL
-  - [ryuichiueda/bashcms2: a little CMS system written with bash](https://github.com/ryuichiueda/bashcms2)
+    - [ryuichiueda/bashcms2: a little CMS system written with bash](https://github.com/ryuichiueda/bashcms2)

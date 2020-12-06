@@ -1,5 +1,5 @@
 ---
-Keywords:ドメイン, 初期設定, さくらのVPS
+Keywords: ドメイン, 初期設定, さくらのVPS
 Copyright: (C) 2020 Masayuki Onishi
 ---
 
@@ -62,8 +62,8 @@ Question | Answer
 Enter email address | 自分のメールアドレス ( 証明書更新時期に連絡あるかも？ )
 Please read the Terms ... | 規約に同意できる場合は、Agree
 Would you be willing to share your email address... | 任意
-Which names would 用 like と activate hっtps for ? ｜ HTTPS 化したいドメインを選択
-Please choose whether or not to redirect HTTP traffic to HTTPS | 2. Redirect
+Which names would you like to activate https for ? | HTTPS 化したいドメインを選択
+Please choose whether or not to redirect HTTP traffic to HTTPS | 2\. Redirect
 
 ### 終了
 
@@ -76,7 +76,7 @@ sudo letsencrypt renew
 ```
 
 - 参考 URL
-  - [よくある質問 \(FAQ\) \- Let's Encrypt \- フリーな SSL/TLS 証明書](https://letsencrypt.org/ja/docs/faq/#:~:text=Let's%20Encrypt%20%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9C%9F%E9%99%90%E3%81%AF%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99,%E6%9C%9F%E9%99%90%E3%81%AF%2090%20%E6%97%A5%E9%96%93%E3%81%A7%E3%81%99%E3%80%82)
+    - [よくある質問 \(FAQ\) \- Let's Encrypt \- フリーな SSL/TLS 証明書](https://letsencrypt.org/ja/docs/faq/#:~:text=Let's%20Encrypt%20%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9C%9F%E9%99%90%E3%81%AF%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99,%E6%9C%9F%E9%99%90%E3%81%AF%2090%20%E6%97%A5%E9%96%93%E3%81%A7%E3%81%99%E3%80%82)
 
 
 ## 余談: 無料ドメインの取得
@@ -84,6 +84,6 @@ sudo letsencrypt renew
 使用期限が 1 年未満となるが、無料ドメインの選択肢が存在する。
 
 - 参考 URL
-  - [Freenom](https://my.freenom.com/clientarea.php)
-  - [freenomで無料ドメインを取得する｜ふじい｜note](https://note.com/dafujii/n/n406f385651e2)
-  - [よくある質問 \- KAGOYA Internet Routing サポートサイト \- DNS設定が反映したか確認したい](https://support.kagoya.jp/kir/faq/index.php?action=artikel&cat=22&id=377&artlang=ja)
+    - [Freenom](https://my.freenom.com/clientarea.php)
+    - [freenomで無料ドメインを取得する｜ふじい｜note](https://note.com/dafujii/n/n406f385651e2)
+    - [よくある質問 \- KAGOYA Internet Routing サポートサイト \- DNS設定が反映したか確認したい](https://support.kagoya.jp/kir/faq/index.php?action=artikel&cat=22&id=377&artlang=ja)

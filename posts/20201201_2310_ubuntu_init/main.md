@@ -1,5 +1,5 @@
 ---
-Keywords:linux, ubuntu, 初期設定
+Keywords: linux, ubuntu, 初期設定
 Copyright: (C) 2020 Masayuki Onishi
 ---
 
@@ -28,7 +28,7 @@ Write the changes to disks? | Yes
 ### Finish the installation
 
 - `Continue` 選択
-  - 再起動後に再接続
+    - 再起動後に再接続
 
 
 ## 好みのサーバ設定
@@ -101,10 +101,8 @@ $ sudo vim /etc/ssh/sshd_config
 ```
 
 ```diff
-...
 - #PasswordAuthentication yes
 + PasswordAuthentication no
-...
 ```
 
 ```bash

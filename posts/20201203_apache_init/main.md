@@ -1,5 +1,5 @@
 ---
-Keywords:webサーバ, apache, 初期設定
+Keywords: webサーバ, apache, 初期設定
 Copyright: (C) 2020 Masayuki Onishi
 ---
 
@@ -38,5 +38,4 @@ $ sudo service  apache2 restart
 ```
 
 - 参考 URL
-  - [たった2行でできるWebサーバ防御の「心理戦」 \(2/3\)：セキュリティ対策の「ある視点」（1） \- ＠IT](https://www.atmarkit.co.jp/ait/articles/0707/19/news141_2.html)
-
+    - [たった2行でできるWebサーバ防御の「心理戦」 \(2/3\)：セキュリティ対策の「ある視点」（1） \- ＠IT](https://www.atmarkit.co.jp/ait/articles/0707/19/news141_2.html)
