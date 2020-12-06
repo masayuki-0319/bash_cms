@@ -28,13 +28,12 @@ $ sudo vim /etc/apache2/apache2.conf
 Apache の設定ファイルの下部に以下の設定を追加する。
 
 ```diff
-...
 + ServerSignature Off
 + ServerTokens ProductOnly
 ```
 
 ```bash
-$ sudo service  apache2 restart
+$ sudo service apache2 restart
 ```
 
 - 参考 URL
